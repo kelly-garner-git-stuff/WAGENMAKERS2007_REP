@@ -1,0 +1,5 @@
+(c) K. Garner, University of Birmingham
+21st September 2017
+
+The R code reproduces Figures 5 & 6 from the paper 
+Wagenmakers, 2007. A practical solution to the pervasive problems of p-values. Psychonomic Bulletin and Review, 779-804.
